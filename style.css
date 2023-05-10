@@ -1,0 +1,33 @@
+ul{
+    
+}
+
+.activities{
+    padding: 94px 215px;
+}
+
+.activities-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.team{
+    background-color: #bbb;
+    padding: 94px 215px;
+}
+
+.team-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.prinzips-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
