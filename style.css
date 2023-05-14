@@ -1,8 +1,8 @@
 ul{
-    
+    list-style: none;  
 }
 
-.activities{
+/* .activities{
     padding: 94px 215px;
 }
 
@@ -30,4 +30,4 @@ ul{
     justify-content: center;
     align-items: center;
     gap: 50px;
-}
+} */
